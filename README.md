@@ -3,4 +3,4 @@
 Run the Notebook 
 
 ## Key Results
-![Alt text](image/full_barcode.jpg?raw=true "Detected Barcodes")
+![Detected Barcodes](img/full_barcode.jpg?raw=true "Detected Barcodes")
