@@ -6,3 +6,5 @@ Run the Notebook https://colab.research.google.com/drive/1bTStJu8x4yirwNrj3VOr60
 ![Detected Barcodes](img/full_barcode.jpg?raw=true "Detected Barcodes")
 
 ![No Barcodes](img/no_barcode.jpg?raw=true "No Barcodes")
+
+![All Bounding Box](img/all_bounding_box_full (1).jpg?raw=true "All Bounding Box")
